@@ -1,6 +1,6 @@
 # Quantum Computing on IBMs’ Quantum Computer 
 
-## (BSc) Hons Physics; FINAL YEAR PROJECT 2020
+## (BSc) Hons Physics: FINAL YEAR PROJECT 2020
 
 Abstract
 
